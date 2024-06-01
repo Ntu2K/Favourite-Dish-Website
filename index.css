@@ -78,7 +78,9 @@ nav ul li a:hover {
     text-align: center;
     font-style: italic; font-size: larger;
     padding: 20px;
-    height: 100vh;
+    height: 100dvh;
+    width: 100dvw;
+    margin-top: 11dvh;
     display: flex;
     justify-content: center;
     align-items: center;
