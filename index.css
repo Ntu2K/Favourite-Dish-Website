@@ -11,6 +11,8 @@ header  {
     height: 10vh;
     position: fixed;
 }
+h2{background-color: yellow;}
+
 nav ul{
     list-style-type:none;
     text-transform: uppercase;
@@ -150,6 +152,6 @@ nav ul li a:hover {
     border-radius: 5px;
     transition: background-color 0.3s;
 }
-#feedback input[type="submit"]: hover{
+#feedback input[type="submit"] hover{
     background-color: #45a049; 
 }
