@@ -171,7 +171,7 @@ nav ul li a:hover {
     padding: 10px;
     box-sizing:content-box
 }
-#padding input[ type="submit"] {
+#padding input[type="submit"] {
     padding: 10px 20px;
     background-color: #4CAF50;
     color: white;
